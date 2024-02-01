@@ -1,0 +1,9 @@
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\bin\Debug\parcial1Nelaton_Joy.exe
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\bin\Debug\parcial1Nelaton_Joy.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\bin\Debug\parcial1Nelaton_Joy.xml
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\obj\x86\Debug\parcial1Nelaton_Joy.Form1.resources
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\obj\x86\Debug\parcial1Nelaton_Joy.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\obj\x86\Debug\parcial1Nelaton_Joy.vbproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\obj\x86\Debug\parcial1Nelaton_Joy.exe
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\obj\x86\Debug\parcial1Nelaton_Joy.xml
+C:\Users\USER\documents\visual studio 2010\Projects\parcial1Nelaton_Joy\parcial1Nelaton_Joy\obj\x86\Debug\parcial1Nelaton_Joy.pdb
